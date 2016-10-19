@@ -1,0 +1,128 @@
+.homepage{
+background-color: rgba(101, 101, 101, 0.16);	
+}
+.logpage{
+border: 2px solid grey;
+padding:10px;
+height: 1000px;
+margin: 10px 10px 10px 0px;
+
+}
+
+.signpage{
+border: 2px solid grey;
+margin: 10px 10px 10px 0px;
+color: black;
+padding-bottom: 50px;
+height: 1000px;
+
+}
+a{
+	color:white;
+}
+header{
+	background-color: #080808;
+	padding-top: 16px;
+}
+.clear{
+	clear: both;
+}
+.frst{
+	background-color:rgba(150, 55, 55, 0.88);
+}
+.scnd{
+	background-color: orange;
+}
+.blog_img{
+	width: 400px;
+	height: 300px;
+}
+button{
+	background-color: grey;
+	color: white;	
+	border:none;
+}
+h2{
+	
+	margin: 0px 0px 50px 0px;
+	font-style: italic;
+	color: #7b7878;
+}
+#m{
+	font-style: italic;
+	color: #0e2494;
+    font-family: monospace;
+    padding-left: 10px	
+}
+.logpage button{
+	background-color: grey;
+	border: none;
+	color: white;
+}
+.sign{
+
+	border: none;
+	font-weight: bold;
+}
+.log{
+	background-color: grey;
+	border: none;
+	color: white;
+}
+.para {
+	border: none;
+	background-color: transparent;
+	color: #3da1ea;
+}
+.bord{
+	border: 1px dotted white;
+	margin: 10px;
+	width: 500px;
+	height: 1000px;
+	float: left;
+	
+}
+
+.cont h2{
+	text-align: center;
+}
+.cont img{
+	text-align: center;
+
+}
+.content{
+	font-style: italic;
+	color: grey;
+}
+.content p{
+	overflow: hidden;
+	
+}
+
+.author,.date{
+	font-weight: bold;
+	color: white;
+}
+footer{
+	background-color: #312c2c;
+	padding-bottom: 25px;
+	padding-top: 1px;
+
+}
+footer h4{
+	color: white;
+
+}
+.foot_right{
+	padding-top: 10px;
+}
+.im1,.im2,.im3{
+	padding-right: 5px;
+	float: right;
+	display: inline-block;
+	width: 40px;
+	height: 30px;
+}
+.add_in input{
+	margin:20px;
+}
